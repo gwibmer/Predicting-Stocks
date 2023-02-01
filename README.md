@@ -1,1 +1,3 @@
+# Stock Prediction Algorithm
 
+This project uses a neural network based on the Yahoo Financial data set from the last 20 years to predict the future of stocks. The algorithm was developed using Python and the neural network was trained using the latest deep learning techniques. The results of this project provide a powerful tool for investors and traders looking to make informed decisions about their portfolios. With its accuracy and robust performance, this algorithm is a valuable addition to any financial analysis toolkit. In progress...
